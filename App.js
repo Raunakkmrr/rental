@@ -27,6 +27,7 @@ export default class App extends Component<Props> {
 //raunak is here
 //new update 
 <View></View>
+//update
 </View>
     );
   }
